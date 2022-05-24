@@ -4,7 +4,7 @@
 
 
 <h1 text align="center">RPG REACT</h1>
-<img src="assets\img\map.png" alt="Map">
+<img src="https://github.com/kawlaetoledo/rpg-react/blob/main/public/assets/map.png" alt="Map">
 
 Descrição
 <p>O projeto consiste em um pequeno RPG, que utilizando WASD ou as setinhas do teclado podemos movimentar o player1.</p>
