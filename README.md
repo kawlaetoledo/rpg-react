@@ -1,8 +1,3 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/kawlaetoledo/rpg-react?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/kawlaetoledo/rpg-react?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/kawlaetoledo/rpg-react?style=for-the-badge)
-
-
 <h1 text align="center">RPG REACT</h1>
 <img src="https://github.com/kawlaetoledo/rpg-react/blob/main/public/assets/map.png" alt="Map">
 
@@ -39,7 +34,7 @@ Ao abrir a pasta do projeto, no terminal digitar:
 
 "npm run dev" 
   
-Pronto! A aplicação está será iniciada no http://localhost:3000/ .
+Pronto! A aplicação está será iniciada no http://localhost:3000/ 
  ```
  
  
